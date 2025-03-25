@@ -1,6 +1,6 @@
 package threads;
 
-public class ThreadTestOption2 {
+public class ThreadUsingLambda {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
